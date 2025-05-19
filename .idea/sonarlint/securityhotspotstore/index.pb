@@ -9,3 +9,5 @@ K
 contracts/optimization.clar,6/c/6cbc3f31ebe73a18390c37f294274caf1ae01e92
 P
  contracts/process-parameter.clar,4/1/41da0506e6537912e044f9d50a59554b08461a37
+N
+contracts/quality-outcome.clar,b/8/b813121e23519b8150061f32cd364f1a448d88c7
