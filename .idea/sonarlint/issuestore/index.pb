@@ -7,3 +7,5 @@ T
 $contracts/facility-verification.clar,8/4/846317c1e114e49185758a0163ab152909b6c720
 K
 contracts/optimization.clar,6/c/6cbc3f31ebe73a18390c37f294274caf1ae01e92
+P
+ contracts/process-parameter.clar,4/1/41da0506e6537912e044f9d50a59554b08461a37
